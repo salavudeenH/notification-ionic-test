@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "698865066195",
+    "firebase_url": "https://corp-app-8ddd7-default-rtdb.firebaseio.com",
+    "project_id": "corp-app-8ddd7",
+    "storage_bucket": "corp-app-8ddd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698865066195:android:0b3a4a5d8dd4192d2ff426",
+        "android_client_info": {
+          "package_name": "com.sala.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698865066195-ht6b90mik01004lh5697a2q21o5t0roc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUKXXW1sncC1fi13du4nlfDLzixUixoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698865066195-ht6b90mik01004lh5697a2q21o5t0roc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698865066195-emmql1tb8e80s539fqbt2n9oujg0i4ep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dualapp.devsala"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698865066195:android:381fa0ae74b05cbf2ff426",
+        "android_client_info": {
+          "package_name": "com.sala.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698865066195-ht6b90mik01004lh5697a2q21o5t0roc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUKXXW1sncC1fi13du4nlfDLzixUixoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698865066195-ht6b90mik01004lh5697a2q21o5t0roc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698865066195-emmql1tb8e80s539fqbt2n9oujg0i4ep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dualapp.devsala"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
